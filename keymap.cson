@@ -1,0 +1,13 @@
+'atom-workspace':
+    'ctrl-x g': 'github:toggle-git-tab'
+    'ctrl--': 'core:undo'
+    'alt-x': 'command-palette:toggle'
+'.platform-darwin atom-workspace':
+    'ctrl-x j': 'open-terminal-here:open'
+'.editor':
+    'cmd-i': 'editor:auto-indent'
+    'ctrl-x :': 'go-to-line:toggle'
+'atom-text-editor:not([mini])':
+    'ctrl-j': 'emmet:expand-abbreviation'
+
+# 'ctrl-x alt-j' finderをひらきたい
