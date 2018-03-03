@@ -8,6 +8,7 @@
     'cmd-i': 'editor:auto-indent'
     'ctrl-x :': 'go-to-line:toggle'
     'cmd-r': 'window:reload'
+    'ctrl-x alt-i': 'atom-insert-image:insert'
 'atom-text-editor:not([mini])':
     'ctrl-j': 'emmet:expand-abbreviation'
 
