@@ -2,6 +2,7 @@
     'ctrl-x g': 'github:toggle-git-tab'
     'ctrl--': 'core:undo'
     'alt-x': 'command-palette:toggle'
+    'ctrl-x 2': 'pane:split-down-and-copy-active-item'
 '.platform-darwin atom-workspace':
     'ctrl-x j': 'open-terminal-here:open'
 '.editor':
