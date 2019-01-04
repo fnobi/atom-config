@@ -21,7 +21,7 @@
         'prefix': 'require'
         'body': 'const $1 = require(\'$1\');'
 
-'.source.css.scss':
+'.source.css':
     'nospan':
         'prefix': 'nospan'
         'body': """
@@ -47,3 +47,8 @@
             };
             </script>
         """
+
+'.source.review':
+    'code':
+        'prefix': 'code'
+        'body': '@<code>{$1}'
